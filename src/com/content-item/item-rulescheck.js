@@ -113,7 +113,7 @@ export default class ContentItemRulesCheck extends Component {
 
 					<ButtonBase onclick={this.handleChange.bind(this, 'readRules', !readRules)}>
 						{readRules ? IconChecked : IconUnChecked}
-						I have read and understood <UILink blank href="//ludumdare.com/rules/"><strong>the rules</strong></UILink>.
+						I have read and understood <UILink blank href="/events/ludum-dare/rules"><strong>the rules</strong></UILink>.
 					</ButtonBase>
 
 					<ButtonBase onclick={this.handleChange.bind(this, 'optedOut', !optedOut)}>
