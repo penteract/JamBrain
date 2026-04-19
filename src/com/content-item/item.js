@@ -886,7 +886,7 @@ export default class ContentItem extends Component {
 					<div class="-footer">
 						<p>
 							<span>Opt-out of categories here if you and your team didn't make all your graphics, audio, or music during the event.
-							Many participants are making original graphics, audio and music from scratch during the event. As a courtesy, we ask you to opt-out if you didn't do the same. See <UILink href="http://ludumdare.com/rules/">the rules</UILink>.</span>
+							Many participants are making original graphics, audio and music from scratch during the event. As a courtesy, we ask you to opt-out if you didn't do the same. See <UILink href="/events/ludum-dare/rules">the rules</UILink>.</span>
 						</p>
 						<p>
 							<span>Since some games are not meant to be Funny or Moody, or they don't make good use of the theme, you can choose to opt-out of these categories too. Opting out of these is optional.</span>
